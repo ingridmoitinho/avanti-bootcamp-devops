@@ -44,6 +44,6 @@ Neste desafio, o objetivo é realizar o processo de provisionamento de infraestr
 - script.sh: Script utilizado para o deploy do site.
 
 ### Evidência
-![Imagem]()
+![Imagem](https://github.com/ingridmoitinho/avanti-bootcamp-devops/blob/main/desafio-2-terraform-aws/evidencia-deploy-desafio-2.png)
 
 
