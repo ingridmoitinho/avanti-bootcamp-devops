@@ -28,4 +28,4 @@ Neste desafio, o objetivo foi realizar o deploy de um website utilizando as ling
 - **HTML**, **CSS**, **JavaScript**: Linguagens utilizadas no desenvolvimento do website.
 
 ### Evidência
-![Imagem]()
+![Imagem](https://github.com/ingridmoitinho/avanti-bootcamp-devops/blob/main/desafio-1-virtualbox-vagrant/evidencia-deploy-desafio-1.jpg)
